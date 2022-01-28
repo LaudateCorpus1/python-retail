@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.0](https://github.com/googleapis/python-retail/compare/v1.3.0...v1.4.0) (2022-01-28)
+
+
+### Features
+
+* add api key support ([#134](https://github.com/googleapis/python-retail/issues/134)) ([234883d](https://github.com/googleapis/python-retail/commit/234883dcd9a02521c76905fc64d79afe6b5782a5))
+
+
+### Documentation
+
+* **samples:** add retail search service samples ([#133](https://github.com/googleapis/python-retail/issues/133)) ([3b5f938](https://github.com/googleapis/python-retail/commit/3b5f9389e19a5ad7b60ea327ebebff3bc561dae7))
+
 ## [1.3.0](https://github.com/googleapis/python-retail/compare/v1.2.1...v1.3.0) (2022-01-14)
 
 
